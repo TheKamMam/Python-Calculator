@@ -52,7 +52,7 @@ def division(numerator: float, denominator: float) -> float:
 def exponent(base: float, power: float) -> float:
     return math.pow(base, power)
 
-print("Welcome to the python calculator.")
+print("Welcome to the Python Calculator.")
 print("What would you like to calculate?")
 while True:
     useLastResult = False
